@@ -1,0 +1,25 @@
+{
+  "name": "to-class-name",
+  "version": "0.0.0",
+  "description": "Convert given string to a JavaScript class name",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "keywords": [
+    "class",
+    "name"
+  ],
+  "repository": {
+    "url": "git@github.com:azer/to-class-name.git",
+    "type": "git"
+  },
+  "author": "azer",
+  "license": "BSD",
+  "dependencies": {
+    "variable-name": "0.0.2"
+  },
+  "devDependencies": {
+    "prova": "^2.1.2"
+  }
+}
